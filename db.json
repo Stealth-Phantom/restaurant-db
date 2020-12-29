@@ -1,0 +1,26 @@
+{
+  "restaurants": [
+    { "name": "Fake", "category": "Fake Burger", "location":"Over Here", 
+    "menu":[
+    {"name": "Sandwich", "description": "This is a sandwich", "price": 75.0, "ownerId": "Fake"},
+    {"name": "Sandwich2", "description": "This is a copy sandwich", "price": 70.0, "ownerId": "Fake"}
+    ],
+    "reviews":[
+    {"username": "User1", "opinion": "It really was a restaurant", "score": 3, "reviewedPlace": "Fake"},
+    {"username": "User2", "opinion": "It really wasn't a restaurant", "score": 1, "reviewedPlace": "Fake"}
+    ],
+    "totalScore": 3.2, "openTime": "10:00", "closeTime: "23:59"
+    },
+    { "name": "Fake2", "category": "Fake Pizza", "location":"Over There", 
+    "menu":[
+    {"name": "Pizza", "description": "This is a pizza", "price": 85.0, "ownerId": "Fake2"},
+    {"name": "Pizza2", "description": "This is a copy pizza", "price": 80.0, "ownerId": "Fake2"}
+    ],
+    "reviews":[
+    {"username": "User1", "opinion": "It really was circular", "score": 4, "reviewedPlace": "Fake2"},
+    {"username": "User2", "opinion": "It really was a square...", "score": 2, "reviewedPlace": "Fake2"}
+    ],
+    "totalScore": 3.2, "openTime": "09:00", "closeTime: "23:59"
+    }
+  ]
+}
