@@ -1,6 +1,6 @@
 {
   "restaurants": [
-    { "name": "Fake", "category": "Fake Burger", "location":"Over Here", 
+    { "id": "hello@bye.com", "name": "Fake", "category": "Fake Burger", "location":"Over Here", 
     "menu":[
     { "name": "Sandwich", "description": "This is a sandwich", "price": 75.0, "ownerId": "Fake" },
     { "name": "Sandwich2", "description": "This is a copy sandwich", "price": 70.0, "ownerId": "Fake" }
@@ -11,7 +11,7 @@
     ],
     "totalScore": 3.2, "openTime": "10:00", "closeTime": "23:59"
     },
-    { "name": "Fake2", "category": "Fake Pizza", "location":"Over There", 
+    { "id": "hello2@bye.com", "name": "Fake2", "category": "Fake Pizza", "location":"Over There", 
     "menu":[
     { "name": "Pizza", "description": "This is a pizza", "price": 85.0, "ownerId": "Fake2" },
     { "name": "Pizza2", "description": "This is a copy pizza", "price": 80.0, "ownerId": "Fake2" }
